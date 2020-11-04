@@ -2,4 +2,6 @@
 
 echo "phpInfo()";
 
+echo "Hello world ! ";
+
 ?>
